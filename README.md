@@ -2,7 +2,7 @@
 
 🌱 Interested in product management, data science, machine learning, and backend development
 
-🌱 Utilizing database management for University of Oregon Football Recruiting
+🌱 Utilizing database management for University of Oregon football recruiting
 
 🌱 Motivated to integrate the world of computer science with sports
 
